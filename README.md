@@ -1,4 +1,4 @@
-# pangpang-web
+# pangpang
 
 Vite and React source for the Pangpang web project.
 
